@@ -1,5 +1,8 @@
 # Card_Game
-
+a {
+  display:inline-block;
+  margin:20px;
+}
 
 <p align="center">
 <a href="Card_Game/cardGame01.PNG" style="padding:20px"><img src="Card_Game/cardGame01.PNG"  width="30%" ></a>
